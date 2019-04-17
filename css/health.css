@@ -1,0 +1,18 @@
+.healthh1 {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 24px;
+	color:#404040;
+	margin-top: 5.5%;
+	margin-bottom: 2%;
+	margin-left: -4%;
+	font-family: "Montserrat",sans-serif;
+	display: inline-block;
+}
+.plus {
+	color: #32c69a;
+	font-size:36px;
+	font-weight: 700;
+	margin-top: 1px;
+	display: inline-block;
+}
